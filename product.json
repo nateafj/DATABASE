@@ -1,0 +1,74 @@
+[
+    {
+      "img": "JJK.jpg",
+      "desc": "",
+      "title": "Jujutsu Kaisen",
+      "price": 100
+    },
+    {
+      "img": "HXH.jpg",
+      "desc": "",
+      "title": "Hunter X Hunter",
+      "price": 500000
+    },
+    {
+      "img": "DEVIL.jpg",
+      "desc": "",
+      "title": "Fire Force",
+      "price": 200
+    },
+    {
+      "img": "para1c.jpg",
+      "desc": "",
+      "title": "Parasyte",
+      "price": 350
+    },
+    {
+      "img": "jjkf.jpg",
+      "desc": "",
+      "title": "Gojo Fig",
+      "price": 700
+    },
+    {
+      "img": "one.png",
+      "desc": "",
+      "title": "Saitama",
+      "price": 100000
+    },
+    {
+      "img": "mob.png",
+      "desc": "",
+      "title": "Mob & Dimple (set)",
+      "price": 600
+    },
+    {
+      "img": "fff.jpg",
+      "desc": "",
+      "title": "ole girl",
+      "price": 400
+    },
+    {
+      "img": "hxhpeak.jpg",
+      "desc": "",
+      "title": "Mereum & Netero",
+      "price": 10000
+    },
+    {
+      "img": "hunterlic.jpg",
+      "desc": "",
+      "title": "Hunter License",
+      "price": 1000000
+    },
+    {
+      "img": "pp.jpg",
+      "desc": "",
+      "title": "Pyscho Pass",
+      "price": 9.99
+    },
+    {
+      "img": "dr.jpg",
+      "desc": "",
+      "title": "Dr. Stone",
+      "price": 19.99
+    }
+  ]
